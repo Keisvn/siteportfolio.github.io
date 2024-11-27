@@ -6,7 +6,7 @@ title: 吳健雄
 name_pronunciation: Bonjour Killian
 
 # Full name (for SEO)
-first_name: Killian
+first_name: Killians
 last_name: Chien
 
 # Status emoji
